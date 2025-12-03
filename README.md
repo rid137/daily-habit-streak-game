@@ -4,7 +4,7 @@ A playful, gamified habit-tracking application where users earn points and maint
 
 ## Live Demo
 
-[View Demo](https://your-vercel-deployment-url.vercel.app)
+[View Demo](https://daily-habit-streak-game.vercel.app)
 
 ## Features
 
@@ -47,7 +47,7 @@ A playful, gamified habit-tracking application where users earn points and maint
 
 \`\`\`bash
 # Clone the repository
-git clone https://github.com/yourusername/habit-streak-game.git
+git clone https://github.com/rid137/daily-habit-streak-game.git
 
 # Navigate to project directory
 cd habit-streak-game
@@ -106,13 +106,6 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 - **Accessibility Audit** - Full WCAG compliance, screen reader optimization
 - **Unit Tests** - Add Jest/Vitest tests for game logic
 - **Haptic Feedback** - Vibration on mobile for check-ins
-
-### Polish
-- **More Avatar States** - Sleeping, celebrating, exercising animations
-- **Customizable Themes** - Let users pick color schemes
-- **Onboarding Flow** - Tutorial for first-time users
-- **Sound Toggle** - Settings to disable audio
-- **Export Data** - Download habit history as CSV
 
 ## License
 
